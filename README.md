@@ -72,7 +72,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-gard
   <a href="https://www.linkedin.com/in/narendra-gardaswar/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/narendra-gardaswar/narendra-gardaswar/main/raw/linkedin_rect.svg"></a>&nbsp;&nbsp;
  <a href="https://twitter.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/narendra-gardaswar/narendra-gardaswar/blob/main/raw/twitter_rect.svg"></a>&nbsp;&nbsp;
  <a href="https://instagram.com/naren_hyd" target="_blank"><img height="25" src="https://github.com/narendra-gardaswar/narendra-gardaswar/blob/main/raw/insta_rect.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/narendra-gardaswar" target="_blank"><img height="25" src="https://github.com/narendra-gardaswar/narendra-gardaswar/blob/main/raw/github_rect.svg"></a>&nbsp;&nbsp;
+
   <br>
 
 ![pv](https://komarev.com/ghpvc/?username=narendra-gardaswar&label=Profile%20views&color=0e75b6&style=flat)
