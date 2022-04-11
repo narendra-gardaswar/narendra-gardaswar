@@ -82,6 +82,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-gard
 [linkedin]: https://www.linkedin.com/in/narendra-gardaswar/
   
  -----
-Credits: [narendra-gardaswar](https://github.com/narendra-gardaswar/)
 
-Last Edited on: 06/04/2022
