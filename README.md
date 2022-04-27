@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"In God we trust. All others must bring data."</b></h4>
+  <h4 align="center"><b>"Time, Tide and JavaScript wait for none"</b></h4>
 </p>
 <hr>
 
